@@ -1,0 +1,3 @@
+Detta är första textfilen i mitt 
+
+git-repo här på datorn 
